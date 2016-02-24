@@ -1,6 +1,3 @@
-# test_easy_npm
-test_easy_npm
-
 {toc}
 h2. 测试使用
 
