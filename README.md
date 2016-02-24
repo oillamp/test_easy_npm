@@ -13,8 +13,7 @@ npm install easy_npm
 
 参考:
 
-[参考文档](link "http://ju.outofmemory.cn/entry/130809")
-
+[参考文档](http://ju.outofmemory.cn/entry/130809)
 
 
 ```javascript
